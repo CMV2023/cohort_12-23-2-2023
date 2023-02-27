@@ -2,16 +2,22 @@
 
 int main(void)
 {
-	putchar('c');
+	putchar('H');
+	putchar('e');
+	putchar('l');
+	putchar('l');
 	putchar('o');
-	putchar('h');
+	putchar(',');
+	putchar(' ');
+	putchar('W');
 	putchar('o');
-        putchar('r');
-        putchar('t');
-	putchar('_');
-        putchar('1');
-        putchar('2');
+	putchar('r');
+	putchar('l');
+	putchar('d');
+	putchar('!');
 	putchar('\n');
 
+
 	return (0);
+
 }
